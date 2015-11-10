@@ -1,0 +1,344 @@
+---
+track:
+    title: Intro to Ruby Web Development(DEPRECATE)
+    uuid: be70548b-d2b8-4637-991e-772be3cd8b83
+    topics:
+    -   title: Ruby
+        uuid: 69a02409-6978-4558-8470-a8befd88162a
+        units:
+        -   title: Introduction
+            uuid: 151c6e43-a30f-4923-a1e8-49be5a4d5d7f
+            lessons:
+            -   title: 'About Ruby: MINSWAN'
+                uuid: c6772627-66ef-48be-977e-e4d6cd155778
+                contents:
+                -   title: Matz Readme
+                    source: https://github.com/learn-co-curriculum/matz-readme
+                    uuid: bbacb29c-e95b-4534-9370-93e227e9420b
+            -   title: What is a Program
+                uuid: fc8b471e-4e90-4245-bcdc-24e7df9cbd7b
+                contents:
+                -   title: Ruby Lecture Intro What Is A Program
+                    source: https://github.com/learn-co-curriculum/ruby-lecture-intro-what-is-a-program
+                    uuid: 9036c498-e8f3-4f60-9ae3-8561ed4dd355
+            -   title: Hello World
+                uuid: 6195edfb-56f4-4ecd-ac53-948dcd7a2021
+                contents:
+                -   title: Hello World Ruby
+                    source: https://github.com/learn-co-curriculum/hello-world-ruby
+                    uuid: eae6701c-97fe-4eb9-b268-91a95d7484c7
+            -   title: Interactive Ruby with IRB
+                uuid: 1610fb3e-ae9f-4a8e-ac8f-8e7375540bb2
+                contents:
+                -   title: Irb Readme
+                    source: https://github.com/learn-co-curriculum/irb-readme
+                    uuid: 20c1b703-2dd6-48c9-9c9e-26cc22655576
+            -   title: Reading Errors
+                uuid: 9ccfcf96-d773-4cc3-8250-8b85431f683c
+                contents:
+                -   title: Ruby Lecture Reading Error Messages
+                    source: https://github.com/learn-co-curriculum/ruby-lecture-reading-error-messages
+                    uuid: b4a39ed9-1b13-41f8-b339-15771d8c13ed
+            -   title: Fixing a Broken Program
+                uuid: d8879851-495e-4290-9c61-de5faa2d3126
+                contents:
+                -   title: Ruby Lecture Fixing Our Broken Program
+                    source: https://github.com/learn-co-curriculum/ruby-lecture-fixing-our-broken-program
+                    uuid: 6134ad77-1c3e-454b-89cf-faf0d9c155f6
+            -   title: Tic Tac Toe Welcome
+                uuid: 1200a90f-25b9-48a4-b524-3af175988c40
+                contents:
+                -   title: Ttt 1 Welcome Rb
+                    source: https://github.com/learn-co-curriculum/ttt-1-welcome-rb
+                    uuid: 2e03b0f3-cfd5-4ad4-95eb-c19bca75b6d8
+        -   title: Variables
+            uuid: 851d4aac-9b2e-4257-aff5-637b01b1a8d5
+            lessons:
+            -   title: About Variables
+                uuid: 6b61204e-b5c0-4131-a88a-641d27500ed9
+                contents:
+                -   title: Variable Readme
+                    source: https://github.com/learn-co-curriculum/variable-readme
+                    uuid: 235c701f-cd07-4139-b180-dd46874542f3
+            -   title: Variables Lab
+                uuid: f8618fb2-0bef-4146-b51f-b3d70664d9ac
+                contents:
+                -   title: Ruby Variable Assignment
+                    source: https://github.com/learn-co-curriculum/ruby-variable-assignment
+                    uuid: 289bb7e3-27c8-417a-80ce-9a6f2e979101
+            -   title: Data Types
+                uuid: 02079046-8025-4370-9056-91b768b1ce32
+                contents:
+                -   title: Data Types Readme
+                    source: https://github.com/learn-co-curriculum/data-types-readme
+                    uuid: 17c9e1d6-5238-46e9-a015-65a33dbd0c19
+            -   title: Intro to Arrays
+                uuid: 899a56b0-56a2-40df-9db8-83a5c73ab7a3
+                contents:
+                -   title: Array Readme
+                    source: https://github.com/learn-co-curriculum/array-readme
+                    uuid: c9677355-1cbd-48f2-86d0-7cc0d2c14699
+            -   title: Arrays Basics Lab
+                uuid: fffcc49e-f546-41e7-a028-1045a76df122
+                contents:
+                -   title: Ruby Intro To Arrays Lab
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-arrays-lab
+                    uuid: 4da8757b-7773-4545-80e0-43a430200990
+            -   title: Tic Tac Toe Board
+                uuid: f340119c-cae4-4fa2-b3e5-e13fc6721d67
+                contents:
+                -   title: Ttt 2 Board Rb
+                    source: https://github.com/learn-co-curriculum/ttt-2-board-rb
+                    uuid: 57ac26aa-537b-4b62-823e-fa5af6eca41e
+        -   title: Methods
+            uuid: baabe934-9093-4fac-9067-9877e4ccbfd0
+            lessons:
+            -   title: Introduction to Methods
+                uuid: ef254fdb-2333-46e0-98b4-901bf7b06605
+                contents:
+                -   title: Ruby Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-methods-readme
+                    uuid: 18ba0f50-739c-4687-aa99-cf0673c17835
+            -   title: String Interpolation
+                uuid: 9de4e140-4346-457f-ac9e-8da9524d6091
+                contents:
+                -   title: Interpolation Readme
+                    source: https://github.com/learn-co-curriculum/interpolation-readme
+                    uuid: 9be169c3-43e7-4e04-9018-cad26d2e91a9
+            -   title: puts vs return values
+                uuid: ce253ea4-3ef9-4926-9104-f6137c892ba2
+                contents:
+                -   title: Puts Print And Return Readme
+                    source: https://github.com/learn-co-curriculum/puts-print-and-return-readme
+                    uuid: f77858bf-9991-403b-b561-2fc197afb4a3
+            -   title: Display TTT Board Example
+                uuid: cc659430-c18c-422b-8299-df9398a35c05
+                contents:
+                -   title: Ttt 3 Display Board Example
+                    source: https://github.com/learn-co-curriculum/ttt-3-display_board-example
+                    uuid: 99b3c803-f197-4a83-a628-8a78dde34561
+            -   title: Method Arguments
+                uuid: 894736fe-cf48-4984-bf7a-44f7664933fd
+                contents:
+                -   title: Ruby Arguments Readme
+                    source: https://github.com/learn-co-curriculum/ruby-arguments-readme
+                    uuid: 1b98c788-c857-4831-8729-368d7a7728a9
+            -   title: TDD, RSpec, and Learn
+                uuid: f3fb93c3-f430-4ce8-8cdf-8e2d4f5fab1d
+                contents:
+                -   title: Intro To Tdd Rspec And Learn
+                    source: https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn
+                    uuid: fefe8682-8083-4f48-a34c-44f2f02e8dba
+            -   title: Say Hello with Default Arguments
+                uuid: 800d57a1-5d55-4b95-9ffa-16e111dc8529
+                contents:
+                -   title: Say Hello Ruby
+                    source: https://github.com/learn-co-curriculum/say-hello-ruby
+                    uuid: b89da439-fe2d-4426-8777-9238d2fc6761
+            -   title: 'Parrot Lab: puts vs return'
+                uuid: d4c8fb29-4331-4f73-89e1-10f684b9a049
+                contents:
+                -   title: Parrot Ruby
+                    source: https://github.com/learn-co-curriculum/parrot-ruby
+                    uuid: 80ba5138-d6ff-4f01-9a35-af637e162f34
+            -   title: Print a Tic Tac Toe Board
+                uuid: 5da42f62-daad-4b9c-9931-0e6b08af9d32
+                contents:
+                -   title: Ttt 4 Display Board Rb
+                    source: https://github.com/learn-co-curriculum/ttt-4-display-board-rb
+                    uuid: e9d382b0-7ab4-49fe-b0d8-4bf4da61c42a
+        -   title: CLI Applications
+            uuid: 6311e5b5-8de0-4647-a9d9-827d1b1b93e3
+            lessons:
+            -   title: Intro to CLI Applications
+                uuid: 2088a01e-16c5-42a1-ae04-fa247e319bc7
+                contents:
+                -   title: Intro To Cli Applications
+                    source: https://github.com/learn-co-curriculum/intro-to-cli-applications
+                    uuid: a322f5a3-62db-4c2c-bcb8-63f570880907
+            -   title: Ruby CLI Applications
+                uuid: c81fe7a1-e20f-4458-b1ad-e83363f5f2fd
+                contents:
+                -   title: Ruby Cli Applications Readme
+                    source: https://github.com/learn-co-curriculum/ruby-cli-applications-readme
+                    uuid: 475dc8e8-3488-4023-85ee-029d63f6f5de
+            -   title: User Input with gets
+                uuid: 48a32ac8-8783-4173-ac24-05a8b7938359
+                contents:
+                -   title: Ruby Gets Input
+                    source: https://github.com/learn-co-curriculum/ruby-gets-input
+                    uuid: cdbec34d-2915-485b-974f-0aef13cabd56
+            -   title: CLI Guessing Game
+                uuid: 0804f2d3-5ed6-430b-b6be-d42b2d726564
+                contents:
+                -   title: Guessing Cli
+                    source: https://github.com/learn-co-curriculum/guessing-cli
+                    uuid: 95775d74-7ab5-4f27-8da2-9e846300f32e
+            -   title: User Move in Tic Tac Toe
+                uuid: e23e60bf-87bc-4964-a100-66eef20c6b7c
+                contents:
+                -   title: Tt 5 Move Rb
+                    source: https://github.com/learn-co-curriculum/tt-5-move-rb
+                    uuid: c9f362cc-0d3f-45ce-9394-031f0c469608
+        -   title: Logic and Conditions
+            uuid: 9f9c8e78-85cd-4a4e-9f9f-1f691820a146
+            lessons:
+            -   title: Truthiness
+                uuid: a4f24774-0c06-459d-927f-02438c7c1d7b
+                contents:
+                -   title: Truthiness In Ruby Readme
+                    source: https://github.com/learn-co-curriculum/truthiness-in-ruby-readme
+                    uuid: 5236367e-95c6-419b-9527-530a5847f8ce
+            -   title: About Booleans
+                uuid: 92945392-f98b-4fc9-90fd-96b2daf775b6
+                contents:
+                -   title: Booleans Ruby Readme
+                    source: https://github.com/learn-co-curriculum/booleans-ruby-readme
+                    uuid: 47e90396-d756-4438-9747-777ea9a4e481
+            -   title: Truthiness Challenge
+                uuid: 678990c9-66ca-4d90-9136-5326dfb7880c
+                contents:
+                -   title: Truthiness Code Challenge
+                    source: https://github.com/learn-co-curriculum/truthiness-code-challenge
+                    uuid: 5973f854-6ed3-48a5-946b-3ca9c5c9fe2a
+            -   title: Position Taken?
+                uuid: 9c11e7a8-d328-4037-b64e-97b1a3ca7936
+                contents:
+                -   title: Ttt 6 Position Taken Rb
+                    source: https://github.com/learn-co-curriculum/ttt-6-position-taken-rb
+                    uuid: 2330a403-bcb2-4a19-896e-18153297fd6e
+            -   title: About Conditionals
+                uuid: fe44a853-3d03-46c3-ba68-7a844a6014fd
+                contents:
+                -   title: Conditional Readme
+                    source: https://github.com/learn-co-curriculum/conditional-readme
+                    uuid: e71dc8a2-8604-4b12-9ae0-61679a40ffaf
+            -   title: About Case Statements
+                uuid: db2af240-c32e-47f4-9b72-0546f9b12ad3
+                contents:
+                -   title: Case Statements Readme
+                    source: https://github.com/learn-co-curriculum/case-statements-readme
+                    uuid: 499bcdaa-e008-43a3-9d59-c6d6189e6ec7
+            -   title: Conditionals Quiz
+                uuid: 7d32a131-cd93-48bb-adf9-84bfa45a77dc
+                contents:
+                -   title: Conditional Quiz Vowels
+                    source: https://github.com/learn-co-curriculum/conditional-quiz-vowels
+                    uuid: 780149a1-52ba-4ae3-9691-feae3457a913
+            -   title: RSpec Fizzbuzz
+                uuid: bb37e6a3-142c-47d8-b97a-838f2f3a3b56
+                contents:
+                -   title: Rspec Fizzbuzz
+                    source: https://github.com/learn-co-curriculum/rspec-fizzbuzz
+                    uuid: 006b0e92-b2d7-4c54-89d3-7f6afc5662bf
+            -   title: Valid Move?
+                uuid: 625356cf-9052-49ba-a3f2-3b0e5fa94964
+                contents:
+                -   title: Ttt 7 Valid Move
+                    source: https://github.com/learn-co-curriculum/ttt-7-valid-move
+                    uuid: f5b308d5-b418-4826-9dc8-fb71d59ae1fc
+            -   title: Tic Tac Toe Turn
+                uuid: 7265df8b-bd28-4cf7-ad44-40fe9ef7e145
+                contents:
+                -   title: Ttt 8 Turn
+                    source: https://github.com/learn-co-curriculum/ttt-8-turn
+                    uuid: ee9fd7ca-b885-4cff-8915-cd75b2e7c336
+        -   title: Loops
+            uuid: feefe63c-45e7-42b0-82f2-eb3f99ae0bc5
+            lessons:
+            -   title: Intro to Loops
+                uuid: a867adc6-22e9-4874-a177-5f88ae309932
+                contents:
+                -   title: Looping Readme
+                    source: https://github.com/learn-co-curriculum/looping-readme
+                    uuid: f6f5aaaa-0f51-49d7-8b56-117a1c98a1ac
+            -   title: Simple Loops
+                uuid: 383099b5-64c5-4f67-a712-c5db305f08aa
+                contents:
+                -   title: Simple Loops
+                    source: https://github.com/learn-co-curriculum/simple-loops
+                    uuid: b51adfe0-1ffa-492f-ae0d-e8acdc9b403d
+            -   title: Tic Tac Toe Play Loop
+                uuid: cd04d96b-8ef5-41b4-8967-dc6a311223f3
+                contents:
+                -   title: Ttt 9 Play Loop
+                    source: https://github.com/learn-co-curriculum/ttt-9-play-loop
+                    uuid: 7295340b-3df7-4243-8724-40031516dc7e
+        -   title: Iteration
+            uuid: 03fe388f-da3b-413d-8b71-49ae304b0f45
+            lessons:
+            -   title: Iteration and Abstraction
+                uuid: 0a2e9840-6eea-4730-bd72-bfc95c99b0d5
+                contents:
+                -   title: Iterators And Abstraction Ruby
+                    source: https://github.com/learn-co-curriculum/iterators-and-abstraction-ruby
+                    uuid: 6ae5767e-c3ad-4a85-ab31-6377cd051066
+            -   title: Intro to Ruby Iterators
+                uuid: ff67b21a-78d3-4ecd-842d-de6136191f23
+                contents:
+                -   title: Intro To Ruby Iterators
+                    source: https://github.com/learn-co-curriculum/intro-to-ruby-iterators
+                    uuid: 3d1e06c6-dc31-483f-9cf5-e58ad6ad63f3
+            -   title: Tic Tac Toe Current Player
+                uuid: ae894648-6b69-4f1c-b613-2f6fc278a674
+                contents:
+                -   title: Ttt 10 Current Player
+                    source: https://github.com/learn-co-curriculum/ttt-10-current-player
+                    uuid: b49989c0-d2c1-453f-84db-dea4ac59fa48
+        -   title: Tic Tac Toe
+            uuid: 1fae5ed4-4b3d-43e1-80ef-1408bd58f809
+            lessons:
+            -   title: Nested Arrays
+                uuid: 56115f90-21fa-468e-b5b4-b73328d7255f
+                contents:
+                -   title: Nested Arrays Ruby
+                    source: https://github.com/learn-co-curriculum/nested-arrays-ruby
+                    uuid: e2474d52-54c5-4dab-937e-471565528390
+            -   title: Boolean Enumerables
+                uuid: 64176413-bd09-4a0e-981a-319b38d5e103
+                contents:
+                -   title: Ruby Boolean Enumerables
+                    source: https://github.com/learn-co-curriculum/ruby-boolean-enumerables
+                    uuid: d931fe14-2e54-4c98-b455-a39bbe9b4a19
+            -   title: Search Enumerables
+                uuid: fc3629ba-37e2-47bc-aefa-ca3761fbd760
+                contents:
+                -   title: Ruby Search Enumerators
+                    source: https://github.com/learn-co-curriculum/ruby-search-enumerators
+                    uuid: 6d958663-f5b6-4d3b-bc69-13340274601a
+            -   title: Tic Tac Toe Game Status
+                uuid: b600c4bd-a6d5-4ff8-b8eb-8f8a8decb91d
+                contents:
+                -   title: Ttt Game Status
+                    source: https://github.com/learn-co-curriculum/ttt-game-status
+                    uuid: d7537ced-6f0d-4474-9063-d9d90bf0ada9
+            -   title: TicTacToe.rb
+                uuid: eb1ad651-40af-47e8-8c1e-8367d475c533
+                contents:
+                -   title: Tic Tac Toe Rb
+                    source: https://github.com/learn-co-curriculum/tic-tac-toe-rb
+                    uuid: 20f872b9-d75f-4ebc-b48c-2f126d09a702
+    -   title: Object Orientation
+        uuid: 22c44afb-6163-4a20-878d-3dc6f3795509
+        units:
+        -   title: Intro to OO
+            uuid: 0f7ba43f-b1af-44e1-b04a-6089b3673f2d
+            lessons:
+            -   title: About Object Orientation
+                uuid: f056a689-3472-479e-9e6e-95929f4327d7
+                contents:
+                -   title: Ruby Intro To Oo
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-oo
+                    uuid: c9851ab2-198f-4b30-a9d7-85c8559f0044
+    -   title: Web Applications
+        uuid: 1937c628-b1f7-40e5-9b1f-f7f2a7fb4243
+        units:
+        -   title: Intro to Sinatra
+            uuid: c5d83303-98e1-477d-97f0-b15bf5efefad
+            lessons:
+            -   title: How the Web Works
+                uuid: b8bf3387-b5b4-48d6-9ada-54b0521348b0
+                contents:
+                -   title: How The Web Works Readme
+                    source: https://github.com/learn-co-curriculum/how-the-web-works-readme
+                    uuid: df0f2682-b96e-4d58-8d51-b448e1a11330
